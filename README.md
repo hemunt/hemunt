@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" height="150" />
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
