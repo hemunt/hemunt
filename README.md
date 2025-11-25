@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" height="130" /> </p>
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -12,7 +10,25 @@
 
 ###
 
+<table>
+<tr>
+<td>
+✨ Creating bugs since the day I wrote my first <b>print("Hello World")</b><br>
+🚀 Improving My Knowledge In Data Science<br>
+🎯 Goals: Master Python and its core libraries.<br>
+🎲 Fun fact: I break code faster than it compiles 😄
+</td>
+<td>
+<img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" height="130" />
+</td>
+</tr>
+</table>
+
+
+<!-- <div align="left">
 <p align="left">✨ Creating bugs since the day I wrote my first <b>print("Hello World")</b> <br>🚀 Improving My Knowledge In Data Science<br>🎯 Goals: Master Python and its core libraries.<br>🎲 Fun fact: I break code faster than it compiles 😄</p>
+<img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" height="100" />
+</div> -->
 
 ###
 
@@ -34,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+
 </div>
 
 ###
