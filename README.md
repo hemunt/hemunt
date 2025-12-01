@@ -16,7 +16,7 @@
 ✨ Creating bugs since the day I wrote my first <b>print("Hello World")</b><br>
 🚀 Improving My Knowledge In Data Science<br>
 🎯 Goals: Master Python and its core libraries.<br>
-🎲 Fun fact: I break code faster than it compiles 😄
+🎲 Fun fact: I break code faster than it compiles
 </td>
 <td>
 <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" height="130" />
